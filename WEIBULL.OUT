@@ -1,0 +1,37 @@
+
+	Distribution Summary
+
+Distribution:	Weibull      
+Expression:	230 + WEIB(42.1, 0.781)
+Square Error:	0.029768
+
+Chi Square Test
+  Number of intervals	= 5
+  Degrees of freedom 	= 2
+  Test Statistic     	= 2e+004
+  Corresponding p-value	< 0.005
+
+	Data Summary
+
+Number of Data Points	= 100000
+Min Data Value       	= 230
+Max Data Value       	= 490
+Sample Mean          	= 279
+Sample Std Dev       	= 60.9
+
+	Histogram Summary
+
+Histogram Range    	= 230 to 490
+Number of Intervals	= 5
+
+
+==================================================================
+Int.   No. of               Probability           Cumulative      
+No.    Data Pts.   x        Density               Distribution    
+------------------------------------------------------------------
+                            Data   Function       Data   Function   
+   0  80243       282.      0.802      0.693      0.802      0.693
+   1  4928       334.     0.0493      0.176      0.852      0.868
+   2  5087       386.     0.0509     0.0698      0.903      0.938
+   3  4874       438.     0.0487     0.0312      0.951      0.969
+   4  4868       490.     0.0487     0.0149       1.00      0.984

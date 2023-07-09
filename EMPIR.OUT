@@ -1,0 +1,25 @@
+
+	Distribution Summary
+
+Distribution:	Empirical    
+Expression:	CONT or DISC (0.000, 229.999,
+                              0.802, 281.999,
+                              0.852, 334.000,
+                              0.903, 386.000,
+                              0.951, 438.001,
+                              0.951, 490.001)
+
+
+	Data Summary
+
+Number of Data Points	= 100000
+Min Data Value       	= 230
+Max Data Value       	= 490
+Sample Mean          	= 279
+Sample Std Dev       	= 60.9
+
+	Histogram Summary
+
+Histogram Range    	= 230 to 490
+Number of Intervals	= 5
+

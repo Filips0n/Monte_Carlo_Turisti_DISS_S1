@@ -1,0 +1,16 @@
+Fit All
+
+Document:  C:\Users\filip\OneDrive\Poèítaè\VS\Ing\DISS\NovinovyStanok\Novinovy_Stanok\random_numbers.txt
+Data File: C:\Users\filip\OneDrive\Poèítaè\VS\Ing\DISS\NovinovyStanok\Novinovy_Stanok\random_numbers.txt
+
+
+Function       Sq Error
+-----------------------
+Beta           0.0026
+Weibull        0.0042
+Erlang         0.00426
+Gamma          0.00468
+Normal         0.00493
+Triangular     0.00496
+Uniform        0.00962
+Exponential    0.0151
